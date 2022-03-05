@@ -1,0 +1,3 @@
+import os
+
+os.system('xdg-open https://youtu.be/oO3aXFHj1do')
